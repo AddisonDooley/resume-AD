@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_photo:                   "true"
+resume_avatar:                  "false"
 resume_name:                    "Addison S. Dooley"
 resume_title:                   "Mechanical Engineering Undergrad"
 
@@ -49,7 +49,7 @@ resume_social_links:
   #resume_twitter_url:           "https://x.com/LorenaABarba"
   #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "www.linkedin.com/in/addison-dooley-311042384"
+  resume_linkedin_url:          "https://www.linkedin.com/in/addison-dooley/"
   resume_instagram_url:         "https://www.instagram.com/addisondooleyy/"
   #resume_website_url:           "http://lorenabarba.com"
   #resume_medium_url:            "https://medium.com/@lorenaabarba"
