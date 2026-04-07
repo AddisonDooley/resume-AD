@@ -10,14 +10,14 @@ sass:
 
 # Resume settings
 resume_avatar:                  "false"
-resume_name:                    "Lorena A. Barba"
-resume_title:                   "Professor of Engineering"
+resume_name:                    "Addison S. Dooley"
+resume_title:                   "Mechanical Engineering Undergrad"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "labarba@gwu.edu"
+resume_contact_email:           "addison.dooley@gwu.edu"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "202-994-6749"
+resume_contact_telephone:       "267-576-2388"
 resume_contact_address:         "800 22nd Street NW"
 
 resume_header_contact_info:     "800 22nd Street NW, 3000 Science & Engineering Hall • 202-994-6749 • labarba@gwu.edu"
