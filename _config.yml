@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_photo:                   "true"
 resume_name:                    "Addison S. Dooley"
 resume_title:                   "Mechanical Engineering Undergrad"
 
