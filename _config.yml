@@ -1,5 +1,5 @@
 # Site settings
-title: "Lorena A. Barba"
+title: "Addison S. Dooley"
 description: "Resume based on template for Jekyll and GitHub Pages sites."
 
 # Build settings
@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "false"
+resume_avatar:                  "true"
 resume_name:                    "Addison S. Dooley"
 resume_title:                   "Mechanical Engineering Undergrad"
 
